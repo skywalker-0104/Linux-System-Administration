@@ -5,6 +5,8 @@
 
     -> Ubuntu
 
+    -> OpenSUSE
+
     -> Alma Linux
 
 
