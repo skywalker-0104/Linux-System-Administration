@@ -1,11 +1,11 @@
 
-# WildCards :
+# WildCards, can be used anywhere in any operations :
 
->_  *
+>_  *, abc*, *bcd, *bc*
 
 >_  ?
 
->_  []
+>_  [], *[name]*
 
 >_  \
 
@@ -13,4 +13,13 @@
 
 >_  $
 
->_  
+>_ 
+
+
+
+>_  touch abc{1..9}.md 
+
+>_  touch 123{A..Z}.md
+
+>_ 
+

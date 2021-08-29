@@ -1,11 +1,16 @@
-
 # Linux Commands, Part-1 ;
 
 >_  man <command>
 
 >_  <command> --help
 
->_  ls \ ls -al \ l
+>_  ls 
+    >_  ls -al
+    >_  l 
+    >_  ls -ltr
+    >_  ls -i 
+    >_  ls -ltri
+    >_  
 
 >_  pwd
 
@@ -39,6 +44,9 @@
 
 >_  neofetch
 
+>_  shutdown -h now
+    >_  shutdown -h 03:00 ,  shutdown in 3 minutes.
+
 >_  poweroff
 
 >_  reboot
@@ -65,4 +73,18 @@
 
 >_  
 
->
+>-
+
+
+
+
+
+
+
+
+# Keyboard Shortcuts;
+
+>_ Alt + F2 : Run a command...
+
+>_ 
+
