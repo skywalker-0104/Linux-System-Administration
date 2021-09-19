@@ -1,14 +1,14 @@
 
-# Industry level Operating Systems & Servers;
+# Industry level Operating Systems & Server OSes ;
 
     -> Cent OS - (2021)- It's over...
 
-    -> Ubuntu
+    -> Ubuntu (LTS versions)
 
     -> OpenSUSE
 
-    -> Alma Linux
+    -> 
 
 
 
-# 
+
